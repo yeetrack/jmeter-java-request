@@ -62,8 +62,4 @@ public class QianbaoPerformanceJmeter extends AbstractJavaSamplerClient {
         params.addArgument("plain", "24key");
         return params;
     }
-
-    public static void main(String[] args) {
-
-    }
 }
